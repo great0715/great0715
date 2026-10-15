@@ -9,18 +9,14 @@ My background includes software consulting, and this GitHub profile showcases th
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- React, TypeScript, JavaScript
-- HTML, CSS, Responsive Design
-
-**Backend**
-- Go, Python, REST APIs
-- SQL, API Integrations
-
-**DevOps**
-- Docker, Kubernetes
-- GitHub Actions, CI/CD
-- Cloud Infrastructure
+Languages & Backend Frameworks: Java, Java EE, Spring Boot, Spring MVC, Spring Cloud, REST APIs
+Architecture & Distributed Systems: Microservices Architecture, Distributed Systems, Event-Driven Architecture,
+Cloud-Native Architecture, Serverless Computing, Application Security
+Cloud & Infrastructure: AWS, Docker, Kubernetes, Terraform, AWS CloudFormation, AWS CDK, Infrastructure as Code
+Data Engineering & Streaming: Apache Kafka, Databricks, Apache Spark, SQL, Relational Databases, Data Modeling, Data
+Pipelines
+DevOps & Build Engineering: Git, CI/CD, Maven, Gradle, Deployment Automation, Production Observability
+Testing & AI Engineering: JUnit, Mocking Frameworks, Unit Testing, Integrat
 
 ## 🚀 Featured Projects
 
