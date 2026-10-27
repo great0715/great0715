@@ -3,7 +3,7 @@
 
 ### Senior Software Engineer | Frontend • Backend • DevOps
 
-Senior software engineer with over 10 years of experience developing and supporting distributed applications, microservices,
+Senior software engineer with over 8 years of experience developing and supporting distributed applications, microservices,
 and cloud-native systems. Strong background in Java, Spring Boot, Spring MVC, Spring Cloud, AWS, and Kafka, with
 Databricks and Apache Spark for data-processing workflows. Experienced maintaining REST APIs, SQL data models, Docker
 and Kubernetes deployments, and infrastructure managed through Terraform and CloudFormation. Regularly handles
