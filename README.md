@@ -1,5 +1,5 @@
 
-# Hi, I'm Jorge 👋
+# Hi, Welcome here 👋
 
 ### Senior Software Engineer | Frontend • Backend • DevOps
 
@@ -42,7 +42,6 @@ A responsive portfolio with four interactive engineering demos.
 ## 📫 Contact
 
 - **Portfolio:** https://great0715.github.io/
-- **Email:** jorgecalero4667@gmail.com
 
 ---
 *Featured projects are original portfolio demonstrations, not historical client projects.*
